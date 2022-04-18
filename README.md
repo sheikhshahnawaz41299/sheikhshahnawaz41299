@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=sheikhshahnawaz41299&show_icons=true&include_all_commits=true&hide_rank=true&bg_color=30,FF5F6D,ffb88c&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/sheikhshahnawaz41299/count.svg" />
+<p align="center">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sheikhshahnawaz41299&count_private=true&include_all_commits=true&show_icons=true&theme=jolly" />
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshahnawaz41299&layout=compact&hide=c,assembly,c%2B%2B&langs_count=8&theme=jolly" />
 </p>
+<p align="center">
+  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=sheikhshahnawaz41299" />
+  <img alt="Years" src="https://badges.pufler.dev/years/sheikhshahnawaz41299" />
+</p> 
